@@ -1,0 +1,3 @@
+[submodule "sunmodule"]
+	path = sunmodule
+	url = git@github.com:mangoqiqi/sunmodule.git
